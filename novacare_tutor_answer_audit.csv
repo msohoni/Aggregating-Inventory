@@ -1,0 +1,23 @@
+test_question,expected_routing,audit_note
+What does λ mean?,psd / λ_min,"Should define minimum eigenvalue / correlation matrix validity, not μ."
+What is lambda_min?,psd / λ_min,Should define the minimum eigenvalue used to check PSD.
+What does \lambda_{min} mean?,psd / λ_min,LaTeX lambda notation should be recognized.
+What does μ mean?,mu,Should define mean demand.
+What does mu_i mean?,mu_i,"Should define regional mean demand, not general μ only."
+What does sigma_pool mean?,sigma_pool,Should define pooled standard deviation.
+What is \sigma_{pool}?,sigma_pool,LaTeX pooled sigma should be recognized.
+What is sigma pool squared?,pooled_variance,Should define pooled variance.
+What does ρᵢⱼ mean?,rho,Should define pairwise regional demand correlation.
+What does rho_ij mean?,rho,Should define pairwise regional demand correlation.
+What does CSL mean?,csl,"Should define cycle service level, not μ."
+What is z?,z,"Should define standard-normal quantile, not random variable Z unless capital Z is asked."
+What is capital Z?,Z,Should define standard-normal random variable.
+What is T+L?,protection_period,Should define protection period.
+What is T?,T,Should define review interval.
+What is L?,L,Should define replenishment lead time.
+What does SS to NDC mean?,ss_ndc,Should define safety-stock-only pooling mode.
+What is OUL?,oul,Should define order-up-to level.
+What is ROP?,rop,Should define reorder point and distinguish CRS from PRS.
+What is FR?,fr,"Should define fill rate, not cycle service level."
+What does average inventory mean?,average_inventory,"Should define average inventory, not mean demand."
+What does response time mean?,response_time,"Should define service response speed, not CSL."
